@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SecondAss</string>
+    <string-array name="currency">
+        <item>USDالدولار الامريكي</item>
+        <item>ILSالشيكل </item>
+        <item>EURاليورو</item>
+        <item>JPYالين الياباني</item>
+        <item>TRYالليرة التركية</item>
+        <item>JODدينار اردني</item>
+        <item>EGPالجنيه المصري</item>
+
+    </string-array>
+
+</resources>
