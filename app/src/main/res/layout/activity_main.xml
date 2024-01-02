@@ -90,10 +90,9 @@
         android:layout_marginStart="99dp"
         android:layout_marginEnd="112dp"
         android:layout_marginBottom="132dp"
-        android:background="@drawable/button"
         android:onClick="bt_OnClick"
         android:text="Exchange"
-        android:textSize="24sp" />
+        style="@style/whitebtn"/>
 
 
 </RelativeLayout>
